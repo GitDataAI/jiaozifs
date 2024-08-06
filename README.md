@@ -110,8 +110,31 @@ Note: storage config for IPFS backend storage as you create a new repository in 
 <a href="https://github.com/gitdata001" target="_blank"><img src="https://avatars.githubusercontent.com/u/157772574?v=4" width="5%" height="5%"/> </a>
 
 ----
+### Our Users
+JiaoZiFS is supported or integrated by the following companies/projects. If you want to be listed here, please contact us.
+
+* DeSci Asia
+* 6079.AI
+* MesoReefDAO
+
+### Our Partners
+JiaoZiFS is supported or integrated by the following companies/projects. If you want to be listed here, please contact us.  
+* Artizen
+* Functionland
+* DeSci Asia
+  
+----
 ### License
 
 Dual-licensed under [MIT](https://github.com/GitDataAI/jiaozifs/blob/main/LICENSE-MIT) + [Apache 2.0](https://github.com/GitDataAI/jiaozifs/blob/main/LICENSE-APACHE)
 
 
+
+Fri Jul 26 01:06:29 UTC 2024
+Mon Jul 29 01:09:05 UTC 2024
+Tue Jul 30 01:07:19 UTC 2024
+Wed Jul 31 00:56:12 UTC 2024
+Thu Aug  1 01:13:17 UTC 2024
+Fri Aug  2 01:07:13 UTC 2024
+Mon Aug  5 01:09:30 UTC 2024
+Tue Aug  6 01:07:40 UTC 2024
